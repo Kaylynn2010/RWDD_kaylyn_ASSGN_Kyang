@@ -17,8 +17,6 @@ class AuthController
 
     public function login($data)
     {
-
-        print("Hello world");
         header('Content-Type: application/json');
 
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
