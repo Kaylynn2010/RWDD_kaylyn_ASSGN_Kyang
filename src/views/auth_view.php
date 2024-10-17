@@ -1,7 +1,6 @@
 <?php
-    include 'databaseconfig.php';
-    include 'Database.php';
-
+    // include 'databaseconfig.php';
+    // include 'Database.php';
 ?>
 
 <!DOCTYPE html>
