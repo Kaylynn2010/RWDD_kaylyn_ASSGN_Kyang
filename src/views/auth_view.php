@@ -1,6 +1,6 @@
 <?php
-    // include 'dbconn.php';
-    // include 'Database.php';
+    include 'databaseconfig.php';
+    include 'Database.php';
 
 ?>
 
